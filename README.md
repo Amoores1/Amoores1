@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sahara](https://github.com/Amoores1/Sahara) and [Teki](https://github.com/NicFie/Teki)
 
-- 🌱 I’m currently learning **a lot!**
+- 🌱 I’m currently learning **React**
 
 
 <h3 align="left">Connect with me:</h3>
