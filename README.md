@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aaron</h1>
-<h3 align="center">A passionate full stack developer from London</h3>
+<h3 align="center">A passionate Front End Developer from London</h3>
 
 - 🔭 I’m currently working on [Sahara](https://github.com/Amoores1/Sahara) and [Teki](https://github.com/NicFie/Teki)
 
